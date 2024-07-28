@@ -1,0 +1,1 @@
+- I'm Kurtus Kobeck, a SWE by trade, but a modder and robotics engineer as well!
