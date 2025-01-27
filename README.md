@@ -1,1 +1,4 @@
-- I'm Kurtus Kobeck, a SWE by trade, but a modder and robotics engineer as well!
+- RW Damage Calculator      (Done)
+- Opening Hand Evaluator    (Done)
+- Hex Game                  (WIP)
+- Network Environment       (WIP)
